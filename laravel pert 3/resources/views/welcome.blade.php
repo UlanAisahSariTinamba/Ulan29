@@ -17,7 +17,7 @@
         </ul>
        
         @if ($isAdmin)
-            <p>Anda adalah seorang admin.</p>
+            <p>Anda adalah seorang coba.</p>
         @else
             <p>Anda bukan seorang admin.</p>
         @endif
