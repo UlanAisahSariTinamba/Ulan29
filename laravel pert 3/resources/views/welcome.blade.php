@@ -19,7 +19,7 @@
         @if ($isAdmin)
             <p>Anda adalah seorang coba.</p>
         @else
-            <p>Anda bukan seorang admin.</p>
+            <p>Anda bukan seorang aa.</p>
         @endif
     </body>
 </html>
